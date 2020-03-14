@@ -1,0 +1,1 @@
+[Tue Mar 10 09:01:48.198184 2020] [php7:error] [pid 887] [client 127.0.0.1:35806] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/viktor/dev-projects/common/storage/framework/views/ca06914c8cce2c85134b21d8e5f41c444fe5ae3f.php on line 9, referer: http://common.test/register

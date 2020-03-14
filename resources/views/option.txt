@@ -1,0 +1,11 @@
+style="
+ background-image: url('{{asset('img/blosom.jpeg')}}') ;
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed;
+
+ background-size: 100%;
+ height: 200%;
+/* overflow: hidden; */
+/* background-size: cover; */
+"
